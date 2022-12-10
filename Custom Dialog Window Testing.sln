@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Dialog Window Testing", "Custom Dialog Window Testing\Custom Dialog Window Testing.csproj", "{DC39A137-3C88-4140-BC5E-22B8569CF0D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC39A137-3C88-4140-BC5E-22B8569CF0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC39A137-3C88-4140-BC5E-22B8569CF0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC39A137-3C88-4140-BC5E-22B8569CF0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC39A137-3C88-4140-BC5E-22B8569CF0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A08F98-848C-42A2-957A-D6D6CCAD1C4F}
+	EndGlobalSection
+EndGlobal
